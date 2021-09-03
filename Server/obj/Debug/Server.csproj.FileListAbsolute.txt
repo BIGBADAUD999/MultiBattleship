@@ -1,0 +1,30 @@
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\bin\Debug\Server.exe.config
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\bin\Debug\Server.exe
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\bin\Debug\Server.pdb
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\bin\Debug\ServerData.dll
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\bin\Debug\ServerData.pdb
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\obj\Debug\Server.exe
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\Server\obj\Debug\Server.pdb
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\bin\Debug\Server.exe.config
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\bin\Debug\Server.exe
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\bin\Debug\Server.pdb
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\bin\Debug\ServerData.dll
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\bin\Debug\ServerData.pdb
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\bin\Debug\ServerData.dll.config
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\obj\Debug\Server.exe
+C:\Users\Yahya\Desktop\Battleship-client-server-master (2)\Battleship-client-server-master\Server\obj\Debug\Server.pdb
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\bin\Debug\Server.exe.config
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\bin\Debug\Server.exe
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\bin\Debug\Server.pdb
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\bin\Debug\ServerData.dll
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\bin\Debug\ServerData.pdb
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\bin\Debug\ServerData.dll.config
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\obj\Debug\Server.exe
+C:\Users\Yahya\Desktop\BattleshipProject\Battleship-client-server-master\Server\obj\Debug\Server.pdb
